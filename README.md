@@ -2,7 +2,7 @@
 
 Hosting a Static Website on AWS S3 via Terraform 
 (minimalistic website for AWS dummies)
-===================================================
+
 **PreRequisite** - 
 1. Terraform setup in Git Bash.
 2. GitHub repo.
