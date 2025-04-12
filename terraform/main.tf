@@ -3,7 +3,7 @@
 
 
 resource "aws_s3_bucket" "mybucket" {
-  bucket = "s3_bucket_testing_monit"
+  bucket = "s3buckettestingmonit12042025"
 
   tags = {
     Name        = "My bucket"
