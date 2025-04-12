@@ -13,11 +13,3 @@ resource "aws_s3_bucket" "mybucket" {
 
 
 
-
-
-
-
-
-//aws-access-key-id: ${{ secrets.AWS_ACCESS_KEY_ID }}
-//aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-//aws-region: ${{ secrets.AWS_REGION }}
